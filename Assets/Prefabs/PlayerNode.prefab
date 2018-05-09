@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 114783720460050224}
   - component: {fileID: 114309571033261752}
   m_Layer: 5
-  m_Name: VoteButton
+  m_Name: VoteButtonText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
